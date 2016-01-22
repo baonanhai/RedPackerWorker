@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedPacketWorker</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">抢枪红包</string>
+</resources>
